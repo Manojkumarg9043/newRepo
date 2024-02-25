@@ -1,0 +1,1 @@
+this respositry only i create for learning about git  hub but i dont know how to delete
